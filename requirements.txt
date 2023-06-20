@@ -1,0 +1,4 @@
+aiogram==2.14.3
+wikipedia
+requirements==2.26.3
+
