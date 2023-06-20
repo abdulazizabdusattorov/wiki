@@ -1,4 +1,4 @@
-aiogram==2.14.3
-wikipedia
-requirements==2.26.3
+aiogram==2.25.1
+wikipedia==1.4.0
+requirements==3.11
 
